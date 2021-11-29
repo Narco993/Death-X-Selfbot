@@ -1,3 +1,6 @@
+Don't skid me :(
+
+
 # Death-X-Selfbot
 The best selfbot I will be releasing v0.2 and it will have more commands
 
@@ -13,3 +16,7 @@ Python 3.5 or higher
 - All Channel Spam
 - Spam
 Adding more features soon on v0.2
+
+# Info
+- Showcase Video - https://www.youtube.com/watch?v=yKCw1uRRhZ8 (yes i know it fucking sucks)
+- Server - https://discord.gg/Yed9sVMRx8
