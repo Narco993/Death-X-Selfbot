@@ -25,7 +25,7 @@ print("       [?] Type {prefix}help to get all commands")
 
 p = input("Prefix: ")
 client = commands.Bot(command_prefix=p, self_bot=True, help_command=None)
-token = "mfa.kw1oWrim81-gyXyCNUW9g60YrI3ak9zKB-dJ-Ecaqfy79BbwHVsnPAjATCV3vI2FpC5tO66U2WQHNE0RrV6f"
+token = input("Token: ")
 
 @client.event
 async def on_ready():
