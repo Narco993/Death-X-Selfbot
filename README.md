@@ -1,5 +1,5 @@
 Don't skid me :(
-
+If you are seeing this there will be a secret here they all start with # and it will take a scraper to figure the code after you get the code dm me and you will get a lesson for learning how to code
 
 # Death-X-Selfbot
 The best selfbot I will be releasing v0.3 and it will have more commands
